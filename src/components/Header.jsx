@@ -11,7 +11,11 @@ export default function Header() {
       <div className="flex justify-between items-center">
         {/* LOGO */}
         <Link to="/">
-          <img src={PlfLogo} alt="PLF Logo" className="w-[83px] border-none" />
+          <img
+            src={PlfLogo}
+            alt="PLF Logo"
+            className="w-[83px] h-[49px] sm:w-[100px] sm:h-[60px] md:w-[110px] md:h-[70px] lg:w-[120px] lg:h-[80px] aspect-[83/49] border-none"
+          />
         </Link>
 
         {/* DESKTOP NAV */}

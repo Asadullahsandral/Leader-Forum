@@ -72,7 +72,7 @@ function Home() {
         </div>
         <img
           src={AboutImage}
-          className="rounded-xl w-full md:w-[450px] md:w-[h-350]"
+          className="rounded-xl w-full md:w-[450px] md:h-[270px]"
         />
       </section>
 

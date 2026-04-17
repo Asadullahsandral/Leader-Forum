@@ -137,7 +137,7 @@ function AboutUs() {
       <section className="relative bg-[#00923f] h-64 md:h-80 flex items-center justify-center overflow-visible mt-16">
         {/* Decorative Circles */}
         <div className="absolute inset-0 overflow-hidden">
-          <div className="absolute md:top-[-110px] top-[-40px] md:left-[-8px] md:w-60 md:h-60 border-[20px] md:border-[45px] w-20 h-20 border-[#D0F5D0] rounded-full "></div>
+          <div className="absolute md:top-[-110px]  top-[-40px] md:left-[-8px] md:w-60 md:h-60 border-[20px] md:border-[45px] w-20 h-20 border-[#D0F5D0] rounded-full "></div>
           <div className="absolute md:bottom-[-110px] bottom-[-40px] md:right-[-8px] right-[-8px] md:w-60 md:h-60 border-[20px] md:border-[45px] w-20 h-20 border-[#D0F5D0] rounded-full"></div>
         </div>
 
